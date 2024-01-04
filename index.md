@@ -5,7 +5,7 @@ layout: default
 # Currículum Vitae
 
 ## 🪪 Información de contacto
-![Anartz Mugika Medium Blog -  Tech Profile Image](https://miro.medium.com/fit/c/176/176/1*V7PIOoevMu5s2hfV1jcsJw.jpeg)
+![Edisbel](https://infotecstudio.nat.cu/wp-content/uploads/2022/12/Edisbel.jpg )
 - Nombre: **Edisbel Ramirez Lovatos**
 - Dirección: **Gilberto Zequieira, #111, Sancti Spiritus, Cuba 🇨🇺**
 - Teléfono: **+53 54850578**
