@@ -8,7 +8,7 @@ layout: default
 ![Edisbel](https://infotecstudio.nat.cu/wp-content/uploads/2022/12/Edisbel.jpg )
 - Nombre: **Edisbel Ramirez Lovatos**
 - Teléfono: **+53 54850578**
-- Correo electrónico: **edisbel.ramirez@gmail.com**
+- Correo electrónico: **edisbel.ramirez95@gmail.com**
 
 # 📝 Resumen
 Soy un administrador de red y desarrollador web full stack con más de **5 años** de experiencia en el campo. Me apasiona trabajar en proyectos desafiantes y aprender nuevas tecnologías.
