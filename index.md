@@ -43,3 +43,10 @@ Soy un administrador de red y desarrollador web full stack con más de 5 años d
 - AWS
 - Docker
 - Kubernetes
+
+## Habilidades
+- Lenguajes de programación: **Php, Java, Python, JavaScript, HTML, CSS**
+- Frameworks: **Django, React, Angular**
+- Sistemas operativos: **Windows, Linux**
+- Herramientas de desarrollo: **Visual Studio Code, Git**
+- Habilidades adicionales: **Administración de redes, seguridad informática**
