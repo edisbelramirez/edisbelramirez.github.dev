@@ -7,7 +7,6 @@ layout: default
 ## 🪪 Información de contacto
 ![Edisbel](https://infotecstudio.nat.cu/wp-content/uploads/2022/12/Edisbel.jpg )
 - Nombre: **Edisbel Ramirez Lovatos**
-- Dirección: **Gilberto Zequieira, #111, Sancti Spiritus, Cuba 🇨🇺**
 - Teléfono: **+53 54850578**
 - Correo electrónico: **edisbel.ramirez@gmail.com**
 
