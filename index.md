@@ -5,6 +5,7 @@ layout: default
 # Currículum Vitae
 
 ## 🪪 Información de contacto
+![Anartz Mugika Medium Blog -  Tech Profile Image](https://miro.medium.com/fit/c/176/176/1*V7PIOoevMu5s2hfV1jcsJw.jpeg)
 - Nombre: **Edisbel Ramirez Lovatos**
 - Dirección: **Gilberto Zequieira, #111, Sancti Spiritus, Cuba 🇨🇺**
 - Teléfono: **+53 54850578**
@@ -13,7 +14,7 @@ layout: default
 # 📝 Resumen
 Soy un administrador de red y desarrollador web full stack con más de **5 años** de experiencia en el campo. Me apasiona trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 
-# 🧑‍💻Experiencia laboral
+# 🧑‍💻 Experiencia laboral
 ## Desarrollador web full stack
 **Empresa:** Infotec Studio.
 **Ubicación:** Sancti Spíritus, Cuba
