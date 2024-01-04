@@ -37,7 +37,7 @@ Soy un administrador de red y desarrollador web full stack con más de **5 años
 **Duración:** 2016 - 2021
 
 # Nivel de Inglés
-## Nivel ** Nivel medio (A2) **
+**Nivel medio (A2)**
 
 # Habilidades
 - Lenguajes de programación: **Php, Java, Python, JavaScript, HTML, CSS**
