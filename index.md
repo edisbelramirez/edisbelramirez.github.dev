@@ -4,16 +4,16 @@ layout: default
 
 # Currículum Vitae
 
-## Información de contacto
+## 🪪 Información de contacto
 - Nombre: **Edisbel Ramirez Lovatos**
-- Dirección: **Gilberto Zequieira, #111, Sancti Spiritus, Cuba**
+- Dirección: **Gilberto Zequieira, #111, Sancti Spiritus, Cuba 🇨🇺**
 - Teléfono: **+53 54850578**
 - Correo electrónico: **edisbel.ramirez@gmail.com**
 
-# Resumen
+# 📝 Resumen
 Soy un administrador de red y desarrollador web full stack con más de **5 años** de experiencia en el campo. Me apasiona trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 
-# Experiencia laboral
+# 🧑‍💻Experiencia laboral
 ## Desarrollador web full stack
 **Empresa:** Infotec Studio.
 **Ubicación:** Sancti Spíritus, Cuba
@@ -30,16 +30,16 @@ Soy un administrador de red y desarrollador web full stack con más de **5 años
 - Configuración y administración de servidores.
 - Implementación de medidas de seguridad de red.
 
-# Educación
+# 📚 Educación
 ## Licenciatura en Ciencias Informáticas
 **Institución:** Universidad de José Martí Pérez 
 **Ubicación:** Sancti Spíritus, Cuba
 **Duración:** 2016 - 2021
 
-# Nivel de Inglés
-**Nivel medio (A2)**
+# 📊 Nivel de Inglés
+Nivel medio **(A2)**
 
-# Habilidades
+# 💻 Habilidades
 - Lenguajes de programación: **Php, Java, Python, JavaScript, HTML, CSS**
 - Frameworks: **Django, React, Angular**
 - Sistemas operativos: **Windows, Linux**
