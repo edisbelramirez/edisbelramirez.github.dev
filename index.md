@@ -8,6 +8,14 @@ layout: default
 **Teléfono:** +1 555-555-5555
 **Ubicación:** La Habana, Cuba
 
+# Currículum Vitae
+
+## Información de contacto
+- Nombre: **Juan Pérez**
+- Dirección: **Calle 23, #45, Sancti Spiritus, Sancti Spíritus, Cuba**
+- Teléfono: **+53 5 123 4567**
+- Correo electrónico: **juan.perez@example.com**
+
 # Resumen
 Soy un administrador de red y desarrollador web full stack con más de 5 años de experiencia en el campo. Me apasiona trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 
